@@ -1,10 +1,10 @@
-﻿using System;
-
-namespace Modul3_pz1
+﻿namespace Modul3_pz1
 {
-    class Program
+    using System;
+
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
         }
