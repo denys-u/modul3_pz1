@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace modul3_pz1
+namespace Modul3_pz1
 {
     class Program
     {
